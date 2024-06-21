@@ -1,0 +1,43 @@
+.hed{
+    text-align: center;
+  }
+  
+  
+  body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+  }
+  p {
+    margin-bottom: 1em;
+  }
+  pre {
+    background-color: lightgray;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  .code {
+    font-family: "Courier New", Courier, monospace;
+    background-color: lightgray;
+    padding: 2px 4px;
+    border-radius: 3px;
+  }
+  .tag {
+    color: #d14;
+  }
+  .attr {
+    color: #8b008b;
+  }
+  
+  .tag2{
+    color: #00b3b3;
+    background-color: lightgray;
+  }
+  

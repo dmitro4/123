@@ -1,0 +1,24 @@
+h1 {
+    background: lightgray;
+    color: #ffff;
+    font: 40px sans-serif;
+    padding: 10px 25px;
+    float: left;
+  }
+  
+  .red{
+    color:red
+  }
+  
+  .black{
+    color:black
+  }
+  
+  .player1 {
+    font: bold 20px sans-serif;
+  }
+  
+  .player2 {
+    font: bold 20px sans-serif;
+    clear: both;
+  }
